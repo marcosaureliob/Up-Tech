@@ -1,0 +1,15 @@
+.general-text{
+    font-size: 12px;
+}
+
+.money-margin{
+    margin-left: 100px;
+}
+
+.page-header{
+    text-transform: capitalize;
+}
+
+.page-subheader{
+    text-transform: capitalize;
+}
