@@ -6,3 +6,4 @@ function mask_cpf(){
     cpf.value += "-"
   }
 }
+
