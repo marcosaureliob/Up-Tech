@@ -7,3 +7,8 @@ function mask_cpf(){
   }
 }
 
+function totalValue() {
+  let quantidade = document.querySelector('#quantidade').value
+  quantidade = quantidade * 69.9
+  document.getElementById("total").value = quantidade;
+}

@@ -1,0 +1,7 @@
+<div>
+                    <p style="margin-left: 200px; font-weight:bold ; font-size: 12px;">Quantidade:</p>
+                    <label for="quantidade"></label>
+                    <input id="quantidade"  style="margin-left: 200px;" type="number" min="1" max="99" value="1">
+                    <p style="margin-left: 200px; font-weight:bold ; font-size: 12px;">Total:</p>
+                    <button id="calcular">Verificar total</button>
+                </div>
